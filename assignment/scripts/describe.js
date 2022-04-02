@@ -170,7 +170,7 @@ const minAge = 21;
 
 // Fix- age is supposed to be greater than or equal to minAge, its written as minAge is less than or qual to age
 // The two console logs should also be switched to show the right answer
-// Should be if(age  minAge); 
+// Should be if(age >= minAge); 
 // and console.log('enter') else {console.log ('no entry')}
 
 if(minAge <= age) {
