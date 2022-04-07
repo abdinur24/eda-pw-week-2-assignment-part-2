@@ -29,7 +29,7 @@ if (number >= 2) {
 // We make a variable called name and sent it to 'Dane' as a string
 // Then we check if variable name is identical to Mary console log 'Hi, Mary!'
 // If not then console log 'How do you do?'
-//
+// In this code it will console log 'How do you do' since name is not equal to 'Mary'
 
 //CODE
 /*
@@ -49,6 +49,7 @@ if (name === 'Mary') {
 // Then we check if code is identical to 123, if it is then console logging secret should come out as 'super'
 // If code is less than 250 then secret is set to 'duper'
 // console log secret 
+// code is equal to 123 so console logging secret will be 'super' and code is multiplied by two euqualing it to 246
 
 //CODE
 /*
@@ -75,6 +76,7 @@ console.log(secret)
 // Else if isStudent is false or age is less 30, then console log 'What are your hobbies?'
 // If not then check if isStudent is true, then console log 'Welcome to Prime!'
 // Else at the end console log 'How about the weather?'
+// Since isStudent is equal to true, it will console log 'Welcome to Prime'
 
 //CODE
 /*
