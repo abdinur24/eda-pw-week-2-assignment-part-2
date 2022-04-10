@@ -137,7 +137,7 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
-// Fix - colorOne should be set to blue and colorTwo set to red
+// Fix - colorOne should be set to 'blue' and colorTwo set to 'red', they should be swapped
 // colorOne and colorTwo should be set to 'purple', only colorOne is
 // Should be colorOnecolorTwo = 'purple'
 
